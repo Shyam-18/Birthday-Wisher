@@ -67,7 +67,7 @@ This will send out emails to the contacts whose birthdays match the current date
 
 For any questions, feel free to reach out:
 
-- Email: shyamkolisetty@gmail.com
+- Email: shyamkolisetty@gmail.com, neethusrinedh@gmail.com
 - GitHub: [@Shyam-18](https://github.com/Shyam-18)
 
 ---
